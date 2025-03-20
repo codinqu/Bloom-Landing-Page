@@ -1,11 +1,50 @@
 .topBar {
-    background-color: blueviolet;
+    background-color: rgb(75, 75, 75);
 }
 
 .titlePage h1 {
-    
+    font-family: "Caveat", cursive;
+    color: ivory;
+    padding-left: 88px;
+    font-size: 39px;
 }
 
 .socialMedia img {
-    height: 20px;
+    height: 30px;
+    margin-top: 12px;
+    padding-left: 10px;
+}
+
+.welcomeContain {
+    position: relative;
+    background-color: pink;
+}
+
+.welCome {
+    position: absolute;
+    padding-top: 60px;
+    left: 166px;
+}
+
+.welCome h3 {
+    padding-bottom: 19px;
+    color: white;
+    font-size: 25px;
+}
+
+.welCome p {
+    font-size: 18px;
+    color: white;
+    padding-bottom: 32px;
+}
+
+.welCome button {
+    background-color: grey;
+    color: white;
+    padding: 3px;
+}
+
+.lapTop img {
+    height: 451px;
+    padding-left: 685px;
 }
