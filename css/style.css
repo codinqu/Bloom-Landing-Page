@@ -48,3 +48,60 @@
     height: 451px;
     padding-left: 685px;
 }
+
+.paraContain {
+    background-color: #f5f3f3;
+}
+
+.paraContain h3 {
+    color: grey;
+    font-size: 21px;
+    padding-top: 35px;
+    padding-left: 22px;
+}
+
+.paraContain p {
+    color: grey;
+    font-size: 15px;
+    padding-left: 22px;
+}
+
+.productS h3 {
+    color: rgb(43, 43, 43);
+    font-size: 21px;
+    padding-top: 35px;
+    padding-bottom: 55px;
+}
+
+.imageS {
+    padding-top: 120px;
+}
+
+.clientSay h3 {
+    color: rgb(42, 41, 41);
+    font-size: 21px;
+    padding-top: 35px;
+    padding-bottom: 50px;
+}
+
+.bottomContain img {
+    height: 290px;
+    padding-bottom: 38px;
+}
+
+.endContain {
+    background-color: rgb(75, 75, 75);
+}
+
+.copyRight p {
+    color: white;
+    font-size: 13px;
+    padding-left: 9px;
+    padding-top: 11px;
+}
+
+.socialMediaEnd img {
+    height: 30px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
