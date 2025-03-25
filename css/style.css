@@ -105,3 +105,90 @@
     margin-top: 10px;
     padding-left: 10px;
 }
+
+@media (max-width: 1200px) {
+    .lapTop img {
+        padding-left: 494px;
+    }
+
+    .productS h3 {
+        padding-left: 28px;
+    }
+
+    .bottomContain img {
+        height: 243px;
+        padding-bottom: 32px;
+    }
+
+    .clientSay h3 {
+        padding-bottom: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .titlePage h1 {
+        padding-left: 12px;
+        font-size: 30px;
+    }
+
+    .socialMedia img {
+        height: 22px;
+        padding-left: 2px;
+    }
+
+    .welcomeContain {
+        padding-bottom: 89px;
+    }
+
+    .welCome {
+        margin-left: -126px;
+        padding-top: 36px;
+    }
+
+    .welCome p {
+        font-size: 14px;
+    }
+
+    .lapTop img {
+        padding-left: 246px;
+        height: 297px;
+    }
+
+    .paraContain h3 {
+        font-size: 17px;
+    }
+
+    .paraContain p {
+        font-size: 11px;
+    }
+
+    .productS h3 {
+        font-size: 17px;
+        padding-bottom: 16px;
+    }
+
+    .imageS {
+        padding-top: 100px;
+    }
+
+    .clientSay h3 {
+        font-size: 17px;
+    }
+
+    .clientSay p {
+        font-size: 11px;
+    }
+
+    .bottomContain img {
+        height: 147px;
+    }
+
+    .copyRight p {
+        font-size: 10px;
+    }
+
+    .socialMediaEnd img {
+        height: 20px;
+        padding-left: 4px;
+    }
+}
